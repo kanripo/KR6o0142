@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 事師法五十頌
+#+DATE: 2015-08-30 21:01:39.884174
+#+PROPERTY: JUAN 0
