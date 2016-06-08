@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:39.727981
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:00
 #+TITLE: 事師法五十頌
 #+PROPERTY: CBETA_ID T32n1687
 #+PROPERTY: ID KR6o0142
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1687
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0142_T_000-0775c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0142_T_001-0775c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1687¶
-
- 事師法五十頌(馬鳴菩薩集)¶
+No. 1687¶
+事師法五十頌(馬鳴菩薩集)¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶
 少卿宣梵大師賜紫沙門臣日稱¶
@@ -231,7 +230,7 @@ No.1687¶
 　若能隨順師行學
 　則成一切諸功德¶
 　以我所集斯善因
-　願與眾生速成佛
+　願與眾生速成佛」
 #+END_VERSE
-」¶
+¶
 事師法五十頌
